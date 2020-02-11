@@ -8,4 +8,8 @@ Answer. Git add hello-world.txt
 3.	Assuming that you are currently within a Git repository, write the command (or commands) that will display any uncommitted changes made to the file named 'README.md'.  
 Answer. Git diff README.md
 
+4.	Assuming that you are currently within a Git repository, write the command (or commands) that will display the changes from the commit with the ID of abc123.  
+Answer. Git show abc123
+
+
 
