@@ -1,5 +1,5 @@
 
-#LAB-6
+# LAB-6
 
 **1. Assuming that you aren't sure whether you're currently inside of a Git repository, write the command (or commands) that will give you this information.**    
 **Answer.** Git status  
